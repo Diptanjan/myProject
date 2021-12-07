@@ -1,0 +1,4 @@
+#Write the names of the files that you do not wnat Git to track and put in repository
+
+donot-track.xml
+log.txt
