@@ -1,0 +1,5 @@
+This is a test file 3. 
+
+Trying to create a file so that delete file can be tested.
+
+Adding a new line for testing diff 
